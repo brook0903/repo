@@ -1,17 +1,18 @@
-Package: brook0903.linestickerhack
+Package: com.brook0903.linestickerhack
 Name: Line Sticker Hack
 Version: 0.0.2
 Architecture: iphoneos-arm
 Description: Line Sticker Hack 蔡蔡備份
-Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
+Depends: mobilesubstrate
 Filename: ./deb/com.brook0903.linestickerhack_0.0.2_iphoneos-arm.deb
 Conflicts: brook0903.linestickerhack
 Maintainer: brook <brook0903@gmail.com>
 Author: brook <brook0903@gmail.com>
 Size: 56630
 Section: Tweaks
+Installed-Size:272
 
-Package: brook0903.bytafont3
+Package: com.brook0903.bytafont3
 Name: Bytafont3(ios11)
 Version: 3.5
 Architecture: iphoneos-arm
