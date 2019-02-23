@@ -10,3 +10,16 @@ Maintainer: brook <brook0903@gmail.com>
 Author: brook <brook0903@gmail.com>
 Size: 56620 
 Section: Tweaks
+
+Package: brook0903.bytafont3
+Name: Bytafont3(ios11)
+Version: 3.5
+Architecture: iphoneos-arm
+Description: Bytafont 蔡蔡備份
+Depends: mobilesubstrate, unzip, firmware (>=11.0)
+Filename: ./deb/com.brook0903.bytafont3_3.5_iphoneos-arm.deb
+Conflicts: brook0903.bytafont3
+Maintainer: brook <brook0903@gmail.com>
+Author: brook <brook0903@gmail.com>
+Size: 1033938 
+Section: Tweaks
